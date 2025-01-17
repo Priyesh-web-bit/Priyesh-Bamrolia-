@@ -5,6 +5,6 @@
        <font color="Red"><p><h5>Here is the image of King Kohli: </p></font
        <p><h6>(Click the name below)</h6></p>
         <a href="https://images.app.goo.gl/Hem68uWorwyVLJyEA"><font color="Green"><h2><em><strong>KING</strong></em></h2></font></a>
-           
-    </body>
-</html>
+           <img src="images.jpeg" width="250" height="170">
+       </body>
+       </html>
